@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently a under graduate B.Tech IT student<br>👯 I’m looking to collaborate on full stack development<br>🌱 I currently deployed 8+ full stack applications<br>💬 Ask me anything about backend development<br>📫 How to reach me: https://bharathwaj.vercel.app
+🔭 I’m currently a under graduate B.Tech IT student<br>👯 I’m looking to collaborate on full stack development<br>🌱 I currently deployed 8+ full stack applications<br>💬 Ask me anything about backend development<br>📫 How to reach me: https://bharathwaj.vercel.app, bharathwaj11a@gmail.com
 
 
 ## 🌐 Socials:
